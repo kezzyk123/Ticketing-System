@@ -1,4 +1,3 @@
-# Ticketing-System
 # Security Ticketing
 
 ## Objective
